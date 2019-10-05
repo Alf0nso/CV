@@ -1,5 +1,5 @@
 # CV
-Online made fully online with web based tech, to make it easier to update and share.
+A Online CV made with web based tech, to make it easier to update and share.
 
---> Prefer to program my CV
---> Framework? :Bootstrap? I'm not a designer so I'm prob just going to use some random theme
+--> Prefer to program my CV.
+--> Used Bootstrap to make it easier for me, but still took a bit.
