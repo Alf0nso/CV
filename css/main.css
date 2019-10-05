@@ -21,35 +21,34 @@ color : #000;
 }
 
 
-.profile
+.user-box
 {
-	top: 20%;
-	left: 50%
+	top: 50%;
+	left: 50%;
 	transform: translate(-50%,-50%);
 	position: absolute;
 }
 
-.profile img
+.user-box img
 {
 	border-radius: 100%;
-	width: 20%;
-	height: 20%;
+	width: 250px;
 	border: 2px solid #f2f2f2;
 }
 
-.profile h1
+.user-box h1
 {
 	color: #f2f2f2;
 	font-weight: bold;
 	margin: 0.8%;
 }
 
-.profile p
+.user-box p
 {
 	color: #f2f2f2;
 }
 
-.profile pre
+.user-box pre
 {
 color: #f2f2f2;
 }
